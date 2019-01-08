@@ -1,10 +1,10 @@
-#_Totodododo Apppppp_
+# _Totodododo Apppppp_
 ***
-##Build this app in your enviroment
+## Build this app in your enviroment
 ***
 1.copy app into your directory
 
-    $git clone 
+    $git clone https://github.com/Zackeyuta/my-first-todo-app.git
 
 2. install yarn in your enviroment
 
