@@ -26,16 +26,16 @@ PS: I can't say "Get Flow and Prerrier but didn't use them"....😅
 ***
 
 ***【Tech】***
-*Language*
-・JavaScript
-・HTML
-・CSS
+*Language*  
+・JavaScript  
+・HTML  
+・CSS  
 
-*Main Library*
-・React
-・Backbone.js
+*Main Library*  
+・React  
+・Backbone.js  
 
-*Type check*
-・Flow
-・Prettier
+*Type check*  
+・Flow  
+・Prettier  
 
