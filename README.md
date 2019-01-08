@@ -1,7 +1,4 @@
-# _Totodododo Apppppp_
-***
-## Build this app in your enviroment
-***
+__Build this app in your enviroment__
 1.copy app into your directory
 
     $git clone https://github.com/Zackeyuta/my-first-todo-app.git
@@ -15,3 +12,5 @@
 3.Let's activate "react-todos" in your local enviroment
 
     $yarn start
+    
+***
