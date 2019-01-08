@@ -1,4 +1,4 @@
-__Build this app in your enviroment__
+# Build this app in your enviroment
 
 1. **Copy "my-first-todo-app" into your directory**
     
@@ -9,7 +9,7 @@ __Build this app in your enviroment__
 2. **Get yarn in your enviroment**
 
     ```sh
-    $
+    $brew install yarn
     ```
     
 3. **Let's activate "react-todos" in your local enviroment**
