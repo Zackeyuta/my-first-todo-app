@@ -17,5 +17,6 @@
     ```sh
     $yarn start
     ```
+    GO to http://localhost:3000/ in your browser
     
 ***
